@@ -1,0 +1,12 @@
+amrinder\sfg\beer\inventory\service\domain\BeerInventory$BeerInventoryBuilder.class
+amrinder\sfg\beer\inventory\service\domain\BeerInventory.class
+amrinder\sfg\beer\inventory\service\web\mappers\BeerInventoryMapper.class
+amrinder\sfg\beer\inventory\service\web\mappers\BeerInventoryMapperImpl.class
+amrinder\sfg\beer\inventory\service\BeerInventoryApplication.class
+amrinder\sfg\beer\inventory\service\web\mappers\DateMapper.class
+amrinder\sfg\beer\inventory\service\bootstrap\BeerInvntoryBootstrap.class
+amrinder\sfg\beer\inventory\service\web\controllers\BeerInventoryController.class
+amrinder\sfg\beer\inventory\service\web\model\BeerInventoryDto$BeerInventoryDtoBuilder.class
+amrinder\sfg\beer\inventory\service\domain\BaseEntity.class
+amrinder\sfg\beer\inventory\service\web\model\BeerInventoryDto.class
+amrinder\sfg\beer\inventory\service\repositories\BeerInventoryRepository.class

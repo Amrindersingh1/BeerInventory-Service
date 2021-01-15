@@ -1,0 +1,9 @@
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\bootstrap\BeerInvntoryBootstrap.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\web\controllers\BeerInventoryController.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\repositories\BeerInventoryRepository.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\web\model\BeerInventoryDto.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\BeerInventoryApplication.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\domain\BeerInventory.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\web\mappers\DateMapper.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\web\mappers\BeerInventoryMapper.java
+D:\projects\microservices\Brewery\BeerInventory-Service\src\main\java\amrinder\sfg\beer\inventory\service\domain\BaseEntity.java
