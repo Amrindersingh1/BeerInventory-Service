@@ -1,4 +1,4 @@
-package com.common.events;
+package com.brewery.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
